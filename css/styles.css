@@ -1,0 +1,12 @@
+/* styles.css */
+
+body {
+    background-color: rgb(170, 170, 170);
+    text-align: center;
+}
+
+ul {
+    align-self: auto;
+    list-style: circle;
+    padding: 0%;
+}
